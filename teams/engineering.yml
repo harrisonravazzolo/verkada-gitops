@@ -22,7 +22,7 @@ controls:
       - path: ../lib/disable-bluetooth-file-sharing.mobileconfig
   macos_updates:
     deadline: "2025-07-12"
-    minimum_verison: "15.5.1"
+    minimum_version: "15.5.1"
   scripts:
     - path: ../lib/macos/scripts/set-timezone.script.sh
 team_settings:
