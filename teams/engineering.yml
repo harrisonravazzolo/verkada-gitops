@@ -36,4 +36,5 @@ team_settings:
       destination_url: https://example.com/failing-policies
       host_batch_size: 0
       policy_ids: 
+        - 186
 software:
