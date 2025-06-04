@@ -33,7 +33,7 @@ team_settings:
   webhook_settings:
     failing_policies_webhook:
       enable_failing_policies_webhook: true
-      destination_url: "https://example.com/fleet-webhook"
+      destination_url: https://example.com/failing-policies
       host_batch_size: 0
       policy_id: 
 software:
